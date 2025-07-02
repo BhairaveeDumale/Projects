@@ -46,4 +46,4 @@ Groceries are the most commonly ordered product category.
 
 Faster delivery is the most important factor influencing app choice.
 
-Over 75% of users actively compare prices before ordering.
+60% of users may compare prices before ordering.
