@@ -33,8 +33,6 @@ student_score_dashboard/
 
 ├── README.md             # This file
 
-└── requirements.txt      # Python packages used
-
 
 
 Learning Goals-
