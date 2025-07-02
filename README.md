@@ -33,7 +33,7 @@ student_score_dashboard/
 
 ├── README.md             # This file
 
-#*combined in student marks
+#*combined in folder Student Marks
 
 
 
